@@ -19,7 +19,7 @@ from recommonmark.transform import AutoStructify
 
 # sys.path.insert(0, os.path.abspath('..'))
 # sys.path.append(os.path.dirname(__file__))
-# os.environ.setdefault("DJANGO_SETTINGS_MODULE", "tenginefactory.settings.dev")
+# os.environ.setdefault("DJANGO_SETTINGS_MODULE", "tenginekit.settings.dev")
 
 # from django.conf import settings
 # from django.utils import timezone
@@ -29,7 +29,7 @@ from recommonmark.transform import AutoStructify
 
 # -- Project information -----------------------------------------------------
 
-project = u'TengineFactory'
+project = u'TengineKit'
 copyright = u'2021, OPEN AI LAB, Inc & contributors'
 author = u'OPEN AI LAB'
 
