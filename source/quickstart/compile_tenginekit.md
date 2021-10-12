@@ -12,8 +12,7 @@ Then ```build.gradle``` in Main Module add aar dependency
     	...
     }
 ```     
-- [Old version API](https://github.com/OAID/TengineKit/blob/test/Android/docs/Android_api.md) : Use TengineKitCore-v0.0.4 or older version API to complete the functions you need.
-- [Old version Usage](https://github.com/OAID/TengineKit/blob/test/Android/docs/Usage.md) : TengineKitCore-v0.0.4 or older version Specific usage.
+- [Old version API](https://github.com/OAID/TengineKit/blob/test/Android/docs) : Use TengineKitCore-v0.0.4 or older version API to complete the functions you need.
 
 ## System
 Android
