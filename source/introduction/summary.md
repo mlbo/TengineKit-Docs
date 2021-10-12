@@ -1,8 +1,8 @@
 # Summary
 
-![TengineKit](https://openailab.oss-cn-shenzhen.aliyuncs.com/logo/TengineKit.png?raw=true "TengineKit logo")
+![](https://openailab.oss-cn-shenzhen.aliyuncs.com/logo/TengineKit.png?raw=true "TengineKit logo")
 
-[![Apache 2.0](https://img.shields.io/crates/l/r)](LICENSE)     
+![](https://img.shields.io/crates/l/r)    
 
 TengineKit, developed by OPEN AI LAB.       
 TengineKit is an easy-to-integrate AI algorithm SDK. At present, it can run on various mobile phones at very low latency.**We will continue to update this project for better results and better performance!**
@@ -52,6 +52,4 @@ or
 | MediaTek Helio P60 | 17ms | 59fps |
 | Qualcomm 450B | 18ms | 56fps |
 
-## Landmark Points Order
-[Landmark Points Order](Docs/POINTORDER.md)
 
